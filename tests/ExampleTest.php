@@ -1,5 +1,12 @@
 <?php
 
-it('can test', function () {
-    expect(true)->toBeTrue();
-});
+use Mininduhewawasam\WeightConversions\Tests\TestCase;
+
+class ExampleTest extends TestCase
+{
+    /** @test */
+    public function it_can_test()
+    {
+        $this->assertTrue(true);
+    }
+}
