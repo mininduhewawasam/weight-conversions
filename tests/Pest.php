@@ -1,5 +1,5 @@
 <?php
 
-use Mininduhewawasam\WeightConversions\Tests\TestCase;
+use VendorName\Skeleton\Tests\TestCase;
 
 uses(TestCase::class)->in(__DIR__);
