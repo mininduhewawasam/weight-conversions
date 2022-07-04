@@ -2,9 +2,9 @@
 
 namespace Mininduhewawasam\WeightConversions;
 
-use Mininduhewawasam\WeightConversions\Commands\WeightConversionsCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
+use Mininduhewawasam\WeightConversions\Commands\WeightConversionsCommand;
 
 class WeightConversionsServiceProvider extends PackageServiceProvider
 {
