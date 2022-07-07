@@ -1,6 +1,6 @@
 <?php
 
-use Spatie\WeightConversions\Weight;
+use Mininduhewawasam\WeightConversions\Weight;
 
 it('can convert kilograms to pounds', function () {
     $pounds = Weight::kilograms(100)->toPounds();
