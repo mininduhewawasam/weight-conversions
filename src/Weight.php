@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\WeightConversions;
+namespace Mininduhewawasam\WeightConversions;
 
 class Weight
 {
